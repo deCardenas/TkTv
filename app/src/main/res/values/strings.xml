@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TkTv</string>
+
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="title_activity_tv_show_detail">TvShowDetailActivity</string>
+    <string name="title_activity_search_movie">SearchMovieActivity</string>
+    <string name="title_activity_search_tv_show">SearchTvShowActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_search">Search</string>
+
+    <!-- menu -->
+    <string name="menu_search">Search</string>
+    <string name="menu_movies">Movies</string>
+    <string name="menu_tv_shows">Tv Shows</string>
+    <string name="menu_people">People</string>
+    <string name="menu_share">Share</string>
+    <!--hint-->
+    <string name="card_path">path</string>
+    <string name="card_title">title</string>
+    <string name="card_description">description</string>
+    <string name="card_id">id</string>
+
+    <!--movie view -->
+    <string name="movie_title">Title</string>
+
+    <!--Search-->
+    <string name="search_movies">Buscar Peliculas</string>
+    <string name="search_tv_shows">Buscar Series de Tv</string>
+    <string name="search_people">Buscar Personas</string>
+</resources>
